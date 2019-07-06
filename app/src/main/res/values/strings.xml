@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">查货工具</string>
+    <string name="result_title"><Data><![CDATA[检索：<font color="#2222dd"><b>%1$s</b></font><br/><br/>]]></Data></string>
+    <string name="result_item"><Data><![CDATA[%1$s：<font color="#ff0000"><b>%2$s</b></font><br/>]]></Data></string>
+</resources>
